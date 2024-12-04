@@ -7,8 +7,8 @@
 // @match        https://*.based.staratlas.com/
 // @require      https://unpkg.com/@solana/web3.js@1.95.8/lib/index.iife.min.js
 // @require      https://raw.githubusercontent.com/zio731/starbase-0.6.16/main/anchor-browserified.js
-// @require      https://raw.githubusercontent.com/zio731/starbase-0.6.16//main/buffer-browserified.js
-// @require      https://raw.githubusercontent.com/zio731/starbase-0.6.16//main/bs58-browserified.js
+// @require      https://raw.githubusercontent.com/zio731/starbase-0.6.16/main/buffer-browserified.js
+// @require      https://raw.githubusercontent.com/zio731/starbase-0.6.16/main/bs58-browserified.js
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=staratlas.com
 // @grant        GM_setValue
 // @grant        GM_getValue
